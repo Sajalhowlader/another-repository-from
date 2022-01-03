@@ -31,3 +31,9 @@ p {
 img {
     width: 100%;
 }
+h2.har {
+    text-align: center;
+    font-size: 40px;
+    color: #00ffd0;
+    text-transform: uppercase;
+}
